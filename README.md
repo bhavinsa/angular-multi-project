@@ -1,27 +1,25 @@
-# MyApp
+# angular-multi-project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
-## Development server
+- This project contain the multiple application project app1 and app2.
+- Routing added from main application to app1 and app2.
+- Routing added from app1 and app2 to main app 
+- Service created in main app that used in app1 and app2
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+------------
+
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Reference Link 
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+https://levelup.gitconnected.com/create-multiple-angular-apps-under-one-project-ff44541a259b
+https://medium.com/disney-streaming/
+combining-multiple-angular-applications-into-a-single-one-e87d530d6527
