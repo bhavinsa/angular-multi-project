@@ -21,5 +21,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 
 https://levelup.gitconnected.com/create-multiple-angular-apps-under-one-project-ff44541a259b
-https://medium.com/disney-streaming/
-combining-multiple-angular-applications-into-a-single-one-e87d530d6527
+https://medium.com/disney-streaming/combining-multiple-angular-applications-into-a-single-one-e87d530d6527
